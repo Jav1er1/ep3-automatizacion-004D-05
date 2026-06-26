@@ -1,7 +1,7 @@
 ==================================================
 CERTIFICADO DE COMPLIANCE DE AUTOMATIZACION
 ==================================================
-Fecha de emision: 2026-06-26 04:09:24.507118
+Fecha de emision: 2026-06-26 04:16:39.465959
 Ingeniero a cargo: Valenzuela Chacana Javier Ignacio (004D-05)
 Empresa Cliente: Transporte Andino SpA
 
