@@ -1,0 +1,9 @@
+[2026-06-26 04:07:08,870] +++ CSR1kv logfile evidencias/snapshot_final_004D-05/connection_CSR1kv.txt +++
+[2026-06-26 04:07:08,870] +++ Unicon plugin iosxe +++
+Password: 
+[2026-06-26 04:07:09,311] +++ connection to spawn: ssh -l cisco -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no 192.168.56.101 22, id: 140439190294336 +++
+[2026-06-26 04:07:09,311] connection to CSR1kv
+
+
+
+% 22 is not an open connectionConnection to 192.168.56.101 closed by remote host.

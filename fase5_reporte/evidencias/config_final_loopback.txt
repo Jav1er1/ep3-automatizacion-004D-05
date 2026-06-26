@@ -1,0 +1,15 @@
+csr1kv | SUCCESS => {
+    "ansible_facts": {
+        "discovered_interpreter_python": "/usr/bin/python3"
+    },
+    "changed": false,
+    "stdout": [
+        "interface Loopback10\n ip address 10.4.5.1 255.255.255.0"
+    ],
+    "stdout_lines": [
+        [
+            "interface Loopback10",
+            " ip address 10.4.5.1 255.255.255.0"
+        ]
+    ]
+}
