@@ -1,0 +1,8 @@
+--- INICIANDO VALIDACION RESTCONF ---
+[OK] Hostname validado.
+[OK] IP Loopback validada.
+[OK] Descripcion WAN validada.
+[OK] Servidor NTP validado.
+
+==============================
+RESULTADO: 4/4 CONFORME
