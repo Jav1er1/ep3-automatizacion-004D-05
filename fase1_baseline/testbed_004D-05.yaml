@@ -1,23 +1,17 @@
-testbed:
-  name: testbed_004D-05
-
 devices:
   CSR1kv:
     os: iosxe
-    platform: csr1000v
     type: router
-
     credentials:
       default:
         username: cisco
-        password: cisco123!
-
+        password: "cisco123!"
+      enable:
+        password: "cisco123!"
     connections:
-      defaults:
-        class: unicon.Unicon
-
       cli:
-        protocol: ssh
+        protocol: ssh -o KexAlgorithms=diffie-hellman-group14-sha1 -o StrictHostKeyChecking=no
         ip: 192.168.56.101
-        arguments:
-          ssh_options: "-o KexAlgorithms=diffie-hellman-group14-sha1"
+        port: 22
+        settings:
+          LEARN_HOSTNAME: True
