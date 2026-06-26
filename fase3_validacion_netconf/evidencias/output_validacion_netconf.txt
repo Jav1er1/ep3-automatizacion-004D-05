@@ -1,0 +1,16 @@
+=== SCRIPT: validacion_netconf.py ===
+Fecha/Hora: 2026-06-26 03:03:31.451180
+Host VM: labvm
+=====================================
+
+XML guardado en evidencias/rpc_reply_raw.xml
+
+--- INICIANDO VALIDACION ---
+[OK] Hostname coincide.
+[OK] IP Loopback coincide.
+[OK] Mascara Loopback coincide.
+[OK] Descripcion WAN coincide.
+[OK] Servidor NTP coincide.
+
+==============================
+RESULTADO: 5/5 CONFORME
